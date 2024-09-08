@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/Eshoej/nvim
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/Eshoej/alacritty
