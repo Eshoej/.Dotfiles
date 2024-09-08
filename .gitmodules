@@ -4,3 +4,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/Eshoej/alacritty
+[submodule "zellij"]
+	path = zellij
+	url = https://github.com/Eshoej/.config_zellij
