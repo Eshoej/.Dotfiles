@@ -7,3 +7,6 @@
 [submodule "zellij"]
 	path = zellij
 	url = https://github.com/Eshoej/.config_zellij
+[submodule "aerospace/.config"]
+	path = aerospace/.config
+	url = https://github.com/Eshoej/.config-aerospace
