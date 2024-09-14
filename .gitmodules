@@ -16,9 +16,6 @@
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
 	url = https://github.com/Eshoej/.config-nvim
-[submodule "nvim/.config/alacritty"]
-	path = nvim/.config/alacritty
-	url = https://github.com/Eshoej/.config-alacritty
 [submodule "alacritty/.config/alacritty"]
 	path = alacritty/.config/alacritty
 	url = https://github.com/Eshoej/.config-alacritty
