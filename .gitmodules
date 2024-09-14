@@ -13,3 +13,9 @@
 [submodule "aerospace/.config/aerospace"]
 	path = aerospace/.config/aerospace
 	url = https://github.com/Eshoej/.config-aerospace
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = https://github.com/Eshoej/.config-nvim
+[submodule "nvim/.config/alacritty"]
+	path = nvim/.config/alacritty
+	url = https://github.com/Eshoej/.config-alacritty
