@@ -10,3 +10,6 @@
 [submodule "aerospace/.config"]
 	path = aerospace/.config
 	url = https://github.com/Eshoej/.config-aerospace
+[submodule "aerospace/.config/aerospace"]
+	path = aerospace/.config/aerospace
+	url = https://github.com/Eshoej/.config-aerospace
